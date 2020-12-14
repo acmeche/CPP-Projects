@@ -1,0 +1,8 @@
+﻿  worker.cpp
+c:\users\aaron\onedrive\desktop\syracuse files\object oriented programming\homework 2\worker\worker\worker.cpp(93): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\aaron\onedrive\desktop\syracuse files\object oriented programming\homework 2\worker\worker\worker.cpp(108): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\aaron\onedrive\desktop\syracuse files\object oriented programming\homework 2\worker\worker\worker.cpp(257): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\aaron\onedrive\desktop\syracuse files\object oriented programming\homework 2\worker\worker\worker.cpp(265): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\aaron\onedrive\desktop\syracuse files\object oriented programming\homework 2\worker\worker\worker.cpp(273): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\aaron\onedrive\desktop\syracuse files\object oriented programming\homework 2\worker\worker\worker.cpp(281): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Worker.vcxproj -> C:\Users\aaron\OneDrive\Desktop\Syracuse Files\Object Oriented Programming\Homework 2\Worker\Worker\Debug\Worker.exe
