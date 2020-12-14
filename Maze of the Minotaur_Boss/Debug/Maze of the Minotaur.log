@@ -1,0 +1,11 @@
+﻿  archer.cpp
+c:\users\aaron\onedrive\desktop\syracuse files\object oriented programming\homework 6\maze of the minotaur\archer.cpp(229): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  character.cpp
+  fight.cpp
+  knight.cpp
+  mage.cpp
+  maingame.cpp
+  minotaur.cpp
+  test.cpp
+  Generating Code...
+  Maze of the Minotaur.vcxproj -> C:\Users\aaron\OneDrive\Desktop\Syracuse Files\Object Oriented Programming\Homework 6\Maze of the Minotaur\Debug\Maze of the Minotaur.exe

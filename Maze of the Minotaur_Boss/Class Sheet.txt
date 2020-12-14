@@ -1,0 +1,53 @@
+Class Sheet
+
+The purpose of this document is to describe each class in the game.
+
+Knight:
+
+stats:
+Health: 30
+Base damage: 2
+Damage mititgation: 50%
+
+offense:
+1.) Slash (base damage attack)
+2.) Slash (base damage +1, 80% accuracy)
+
+defense:
+1.) Block (50% damage mitigation, 75% chance to trigger Stalwart Blade Counter, 2 damage against enemy)
+2.) Dodge (25% chance to dodge enemy attack)
+
+Archer:
+
+stats:
+Health: 25
+Base damage: 3
+Damage mititgation: 25%
+Dodge chance: 60%
+
+offense:
+1.) Arrow Shot (base damage attack)
+2.) Critical Shot (base damage  * 2, 50% accuracy)
+Passive: Trick Shot, random chance to add +2 damage to both attacks
+
+defense:
+1.) Block (25% damage mitigation)
+2.) Dodge (60% chance to dodge enemy attack and avoid all damage, 25% chance to trigger passive ability Trick Shot)
+
+Mage:
+
+stats:
+Health: 20
+Base damage: 4
+Damage mititgation: 50%
+Dodge chance: 50%
+
+offense:
+1.) Fireball (base damage attack)
+2.) Blizzard (base damage  -1, 20% chance to trigger Frozen, reduces enemy damage by -2)
+Passive: Burning Blizzard, if enemy is frozen, Fireball is changed to Burning Blizzard, does +2 damage and removes Frozen effect in exchange for extra damage
+
+defense:
+1.) Magic Barrier (50% damage mitigation, 50% damage reflection)
+2.) Dodge (50% chance to dodge enemy attack and avoid all damage, 25% chance to trigger passive ability Serene Heal, heals health for +5 base)
+
